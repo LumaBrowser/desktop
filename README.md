@@ -21,9 +21,9 @@
 <br />
  
 # 💻 Compatibility
-Luma is always up-to-date with Firefox and Gecko to keep up with web standards and web security.
-Luma is currently built upon Firefox `(unknown, Luma is not yet available)`! 🚀
-Luma's current version is `1.0.0-alpha` (once available)
+🔐 Luma is always up-to-date with Firefox and Gecko to keep up with web standards and web security.
+<br/>🚀 Luma is currently built upon Firefox `(unknown, Luma is not yet available)`!
+<br/>✨ Luma's current version is `1.0.0-alpha` (once available)
 * The latest release notes for Luma are available at https://katniny.github.io/meowser/release-notes
 * Luma currently supports:
   - Windows (x64)
