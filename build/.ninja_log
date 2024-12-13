@@ -1,0 +1,27 @@
+# ninja log v6
+5497	5963	7557699235297368	lib/webview_static.lib	d2ce432ccd65db0e
+15	5323	7557699180354829	_deps/webview-build/core/CMakeFiles/webview_core_shared.dir/src/webview.cc.obj	7e66ec4a0c21f3fa
+23	5492	7557699180430071	_deps/webview-build/core/CMakeFiles/webview_core_static.dir/src/webview.cc.obj	52b97d8accf2502f
+5435	6314	7557699242825143	lib/webview.lib	db71c776fae48257
+5921	6312	7557699239416097	bin/example.exe	f7afd9ddeb715f23
+6	5921	7557699180278171	CMakeFiles/example.dir/main.cc.obj	10d8ec657f082d9b
+5435	6314	7557699242825143	bin/webview.dll	db71c776fae48257
+27	1552	7557700135002375	build.ninja	d1eaf61cc44bb1a8
+46	3708	7557700135961268	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3710	3969	7557700172601053	bin/Luma.exe	213d697b858ecde4
+27	3765	7557701776202180	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3766	3999	7557701813583641	bin/Luma.exe	213d697b858ecde4
+30	3842	7557702410120002	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3843	4077	7557702448259114	bin/Luma.exe	213d697b858ecde4
+8	3521	7557706489539041	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3522	3771	7557706524667597	bin/Luma.exe	213d697b858ecde4
+30	3737	7557706801957960	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+30	266	7557706889869898	bin/Luma.exe	213d697b858ecde4
+20	3499	7557709324606638	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3501	3758	7557709359415607	bin/Luma.exe	213d697b858ecde4
+32	5947	7557720208695497	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+5949	6360	7557720267863629	bin/Luma.exe	213d697b858ecde4
+30	3333	7557721071540772	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3334	3566	7557721104581500	bin/Luma.exe	213d697b858ecde4
+6	3456	7557733017836506	CMakeFiles/Luma.dir/main.cc.obj	ceb8aa5e1f46f1da
+3458	3748	7557733052353611	bin/Luma.exe	213d697b858ecde4

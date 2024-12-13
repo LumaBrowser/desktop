@@ -16,7 +16,7 @@
 * Luma's default search engine is <a href="https://duckduckgo.com/">DuckDuckGo</a>, giving you a more private way to search the web.
    - You can change your default search engine in the Settings.
 ### 🤏 Small, But Powerful & Fast
-* Luma uses WebView and (LANGUAGE), which allows Luma to be completely web complient and secure, while allowing for a small file size and speed.
+* Luma uses WebView and C++, which allows Luma to be completely web complient and secure, while allowing for a small file size and speed.
 ### 
 
 <br />

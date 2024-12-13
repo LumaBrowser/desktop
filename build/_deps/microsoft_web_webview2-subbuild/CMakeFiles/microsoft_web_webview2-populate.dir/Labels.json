@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/CMakeFiles/microsoft_web_webview2-populate"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/CMakeFiles/microsoft_web_webview2-populate.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/CMakeFiles/microsoft_web_webview2-populate-complete.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-build.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-configure.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-download.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-install.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-mkdir.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-patch.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-test.rule"
+		},
+		{
+			"file" : "F:/meowser/luma/build/_deps/microsoft_web_webview2-subbuild/microsoft_web_webview2-populate-prefix/src/microsoft_web_webview2-populate-stamp/microsoft_web_webview2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"microsoft_web_webview2-populate"
+		],
+		"name" : "microsoft_web_webview2-populate"
+	}
+}
