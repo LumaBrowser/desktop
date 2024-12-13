@@ -8,29 +8,28 @@
 
 # ✨ Features
 ### 🚫 Built-in content blocking
-* Luma comes with <a href="https://github.com/gorhill/uBlock">uBlock Origin</a> installed by default, which means you get all the benefits of uBlock without having to install it yourself.
-  - To customize your Luma experience, you may--at any time--uninstall or disable uBlock. We highly recommend against this though, as you will lose most privacy benefits.
+* Luma comes with Luma Shield, a powerful content blocker to help you stay safe online.
+  - To customize your Luma experience, you may--at any time--disable this blocker. We highly recommend against this though, as you will lose most, if not all, privacy benefits.
 ### 🧩 Extensions
-* Luma has support for ALL extensions from the <a href="https://addons.mozilla.org">Firefox Addons store</a>, allowing you to customize Luma with custom themes or addons.
+* Luma, on release, will unfortunately not have support for extensions. However, the extension API will start to be developed starting with v1.0.0_alpha release and will be available soon after the browser's launch.
 ### 🔎 Private Searching
 * Luma's default search engine is <a href="https://duckduckgo.com/">DuckDuckGo</a>, giving you a more private way to search the web.
-### 👋 Goodbye Chromium
-* Luma is a fork of Firefox, which means you are no longer feeding into Google's legal monopoly and are helping a smaller browser market.
-  - **Did you know?** Most major browsers are based on Chromium (e.g. DuckDuckGo, Opera, Vivaldi, etc. which only helps Google dominate another tech field)
+   - You can change your default search engine in the Settings.
+### 🤏 Small, But Powerful & Fast
+* Luma uses WebView and Rust, which allows Luma to be completely web complient and secure, while allowing for a small file size and speed.
+### 
 
 <br />
  
-# 💻 Compatibility
-🔐 Luma is always up-to-date with Firefox and Gecko to keep up with web standards and web security.
-<br/>🚀 Luma is currently built upon Firefox `(unknown, Luma is not yet available)`!
-<br/>✨ Luma's current version is `1.0.0-alpha` (once available)
+# 💻 Version
+🔐 Luma is always up-to-date to keep up with web standards and web security.
+<br/>✨ Luma's current version is `unavailable`
 * The latest release notes for Luma are available at https://katniny.github.io/meowser/release-notes
 * Luma currently supports:
-  - Windows (x64)
-  - (The above is 100% confirmed as I use Windows 11, however this list will be updated once Luma is available).
+   - Unknown. Please wait for us to update this list closer to launch!
  
 # 🧑‍💻 Contributing
-(A Contributors Guide will be available soon).
+(A Contributors Guide will be available soon, before the launch of v1.0.0_alpha).
 
 # 📃 License
-Luma is licensed under the Mozilla Public License.
+Luma is licensed under our custom license.
